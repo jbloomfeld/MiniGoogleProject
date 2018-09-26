@@ -5,12 +5,8 @@
  * Simple English Wikipedia. An article has a title, a body,
  * and a filename that corresponds to its location in the
  * on-disk database of articles.
- *
- * Author: Alexander Breen (abreen@bu.edu)
- * Completed by: 
- * Date: March 21, 2014
- * 
- * Modified by: Jake Bloomfeld (jtbloom@bu.edu)
+ 
+ Author: Jake Bloomfeld (jtbloom@bu.edu)
  * Made the title, cosineSimilarity and body public so they
  * could be accessed in other files
  */
