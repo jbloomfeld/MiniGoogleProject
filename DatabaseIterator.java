@@ -5,11 +5,7 @@
  * an instance of this class can iterate through the files,
  * giving a client a reference to a new Article object
  * corresponding to the file.
- *
- * Author: Alexander Breen (abreen@bu.edu)
- * Completed by: 
- * Date: March 21, 2014
- */
+*/
 
 import java.util.*;
 import java.io.*;
