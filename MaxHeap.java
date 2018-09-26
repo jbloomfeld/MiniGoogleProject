@@ -1,12 +1,6 @@
 /* 
  * File MaxHeap.java
- * Author: Wayne Snyder
- * Date: 11/9/13
- * Purpose: This is an example of the MaxHeap algorithm
- *     discussed in the CS 112 lecture on 11/7/13. 
- * Known bugs: This was just a lecture illustration, and does
- *     not account for heap underflow.
- * 
+ 
  * Modified by: Jake Bloomfeld (jtbloom@bu.edu) on 4/19/16
  * Modified this by changing the current heaps' element type from "int" to "Article"
  */ 
